@@ -1,10 +1,17 @@
 # OPENGL_with_freeglut
-Each exercise follows the chapters of the tutorial provided by OGLDEV. (A easy but useful version)
 
-A enjoyable learning journey.
+My learning journey to OPENGL associated with Freeglut/Glew/GLM and C++
+I refer to several valuable books and online tutorials.
 
-Here is the website of the tutorial 
+Online Tutorial:
+OGLDEV: an easy version
 http://ogldev.atspace.co.uk/index.html
-
-They also kindly provide a chinese version in CSDN
+They also kindly provide Chinese version, which is located in CSDN
 http://blog.csdn.net/cordova/article/details/52485909
+
+OPENBOOK: an elaborate one.
+http://openglbook.com/
+
+BOOKS:
+OpenGL SuperBible Fourth Edition
+Real-time Rendering
