@@ -11,8 +11,7 @@ http://ogldev.atspace.co.uk/index.html
 They also kindly provide Chinese version (but translated incompletely), which is located in CSDN
 http://blog.csdn.net/cordova/article/details/52485909
 
-OPENBOOK: an elaborate one.
-
+OPENBOOK: an elaborate one, considerate more about the compile/implement details.
 http://openglbook.com/
 
 BOOKS:
